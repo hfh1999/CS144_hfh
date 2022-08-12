@@ -1,11 +1,10 @@
 Lab 0 Writeup
 =============
 
-My name: [your name here]
-
+My name: flyer
 My SUNet ID: [your sunetid here]
 
-I collaborated with: [list sunetids here]
+I collaborated with: myself
 
 This lab took me about [n] hours to do. I [did/did not] attend the lab session.
 
